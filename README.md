@@ -1,6 +1,6 @@
 ## Multi-channel Open Colorimeter Firmware (prototype) 
+Error when starting the Device: NameError in File calibrationy.py line 24 in __init__ name "mode" is not defined
 
-![alt text](/images/open_colorimeter.png)
 
 Firmware (circuitpython) for the open colorimeter with the AS7341 10-Channel
 Light/Color Sensor. 
