@@ -1,0 +1,58 @@
+{
+  "PSILOCYBIN": {
+    "units": "mg/g",
+    "led": "white",
+    "channels": {
+      "415nm": {
+        "fit_type": "linear",
+        "fit_coef": [20.82, -6.19],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "445nm": {
+        "fit_type": "linear",
+        "fit_coef": [15.96, -4.94],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "480nm": {
+        "fit_type": "linear",
+        "fit_coef": [18.05, -5.73],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "515nm": {
+        "fit_type": "linear",
+        "fit_coef": [20.60, -5.60],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "555nm": {
+        "fit_type": "linear",
+        "fit_coef": [25.35, -4.51],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "590nm": {
+        "fit_type": "linear",
+        "fit_coef": [23.65, -4.23],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "630nm": {
+        "fit_type": "linear",
+        "fit_coef": [28.72, -4.21],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "680nm": {
+        "fit_type": "linear",
+        "fit_coef": [38.62, -4.16],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "910nm": {
+        "fit_type": "linear",
+        "fit_coef": [31.25, -5.47],
+        "range": {"min": 0.0, "max": 36.0}
+      },
+      "Clear": {
+        "fit_type": "linear",
+        "fit_coef": [23.18, -4.99],
+        "range": {"min": 0.0, "max": 36.0}
+      }
+    }
+  }
+}
